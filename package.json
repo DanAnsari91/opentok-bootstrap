@@ -1,0 +1,51 @@
+{
+  "_from": "@opentok/client@^2.17.1",
+  "_id": "@opentok/client@2.19.0",
+  "_inBundle": false,
+  "_integrity": "sha512-PFoctl+tGAZkHCqxdauLMtUY31KHoer9t2nv0jV00YFbJPxa0QH9FPIou96D4GYQUuBAAwqc1KFaut4+t+w0pA==",
+  "_location": "/@opentok/client",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@opentok/client@^2.17.1",
+    "name": "@opentok/client",
+    "escapedName": "@opentok%2fclient",
+    "scope": "@opentok",
+    "rawSpec": "^2.17.1",
+    "saveSpec": null,
+    "fetchSpec": "^2.17.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@opentok/client/-/client-2.19.0.tgz",
+  "_shasum": "6aa16790e7a2a10dac6508d71ac8ac41be209203",
+  "_spec": "@opentok/client@^2.17.1",
+  "_where": "D:\\Medcare EMRLite\\MedcareUI",
+  "author": {
+    "name": "TokBox",
+    "email": "contact@tokbox.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The OpenTok.js library lets you use OpenTok-powered video sessions on the web",
+  "homepage": "https://tokbox.com/developer/sdks/js/",
+  "keywords": [
+    "tokbox",
+    "opentok",
+    "webrtc",
+    "video",
+    "video communications",
+    "real-time communications",
+    "p2p",
+    "peer-to-peer",
+    "client",
+    "sdk"
+  ],
+  "license": "https://tokbox.com/support/sdk_license",
+  "main": "dist/js/opentok.js",
+  "name": "@opentok/client",
+  "types": "dist/js/opentok.d.ts",
+  "version": "2.19.0"
+}
